@@ -1,8 +1,4 @@
 diy-tornado4ss.rhcloud.com
 diy2-elasa2.rhcloud.com
 diy-phantomjs4so.rhcloud.com
-diy4tornado-tornado4ss.rhcloud.com
-diy-java4jython.rhcloud.com
-diy2-java4jython.rhcloud.com
-diy22-java4jython.rhcloud.com
 test-python-ieee3ss5.herokuapp.com
