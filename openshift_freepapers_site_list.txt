@@ -6,3 +6,4 @@ diy-java4jython.rhcloud.com
 diy2-java4jython.rhcloud.com
 diy22-java4jython.rhcloud.com
 test-python-ieee2.herokuapp.com
+test-python-ieee3.herokuapp.com
